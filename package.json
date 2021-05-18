@@ -24,7 +24,7 @@
   "dependencies": {
     "bluebird": "^3.0.5",
     "express": "^4.13.3",
-    "oauth2-server": "github:izzat220/node-oauth2-server"
+    "oauth2-server": "izzat220/node-oauth2-server"
   },
   "devDependencies": {
     "body-parser": "^1.14.1",
